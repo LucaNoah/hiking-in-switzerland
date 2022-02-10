@@ -24,6 +24,7 @@ h1, h2, h3 {
 #logo {
     font-size: 250%;
     float: left;
+    margin-left: 40px;
 }
 
 /* nav bar */
@@ -52,7 +53,7 @@ h1, h2, h3 {
     line-height: 100px;
 }
 
-/*hero image */
+/* hero image */
 
 #hero-outer {
     width: 100%;
@@ -65,4 +66,57 @@ h1, h2, h3 {
     height: 900px;
     background: url(../images/heroimage1-2800x1801.jpg) no-repeat center center;
     background-position: top;
+}
+
+/* discover switzerland */
+
+#discover {
+    background-color: lightgray;
+    height: 900px;
+    width: 100%;
+}
+
+#discover-header {
+    background-color: aqua;
+    width: 33%;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+#discover h2 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 150%;
+}
+
+#discover p {
+    text-align: center;
+    padding-top: 50px;
+}
+
+#discover div {
+    display: inline-block;
+}
+
+#discover1 {
+    background-color: blue;
+    width: 33%;
+    padding-top: 40px;
+}
+
+#discover2 {
+    background-color: red;
+    width: 33%;
+    padding-top: 40px;
+}
+
+#discover3 {
+    background-color: yellow;
+    width: 33%;
+    padding-top: 40px;
+}
+
+#discoverimg1 {
+    background: url(../images/discover1.jpg);
+    height: 100%;
 }
