@@ -11,3 +11,17 @@ body {
     font-weight: 300;
     color: black;
 }
+
+/* headings and logo */
+
+h1, h2, h3 {
+    font-family: 'Archivo Black', sans-serif;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#logo {
+    font-size: 250%;
+    float: left;
+}
