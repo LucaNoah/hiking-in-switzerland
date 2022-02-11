@@ -89,10 +89,6 @@ h1, h2, h3 {
     font-size: 150%;
 }
 
-#discover p {
-    text-align: center;
-    padding-top: 50px;
-}
 
 #discover div {
     display: inline-block;
@@ -101,22 +97,29 @@ h1, h2, h3 {
 #discover1 {
     background-color: blue;
     width: 33%;
-    padding-top: 40px;
+    padding-top: 100px;
+    text-align: center;
 }
 
 #discover2 {
     background-color: red;
     width: 33%;
-    padding-top: 40px;
+    padding-top: 100px;
+    text-align: center;
 }
 
 #discover3 {
     background-color: yellow;
     width: 33%;
-    padding-top: 40px;
+    padding-top: 100px;
+    text-align: center;
+}
+#discover4 {
+    background-color: green;
+    width: 50%;
 }
 
-#discoverimg1 {
-    background: url(../images/discover1.jpg);
-    height: 100%;
+#discover5 {
+    background-color: orange;
+    width: 49%;
 }
