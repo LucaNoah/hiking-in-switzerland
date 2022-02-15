@@ -160,7 +160,7 @@ height: 1px;
 /* join us section */
 
 #join {
-    height: 900px;
+    height: 600px;
     width: 100%;
     background-color: pink;
 }
@@ -172,12 +172,21 @@ height: 1px;
     text-align: center;
     padding-top: 50px;
     font-size: 250%;
+    padding-bottom: 50px;
 }
 
 /* form */
 
 #joinform {
     max-width: 400px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#joindiv {
+    display: block;
+    text-align: center;
 }
 
 .text-input {
@@ -185,5 +194,12 @@ height: 1px;
     height: 25px;
     margin: 5px 0 25px;
     border: 1px solid black;
+    border-radius: 3px;
+}
+
+#join-button {
+    text-align: center;
+    font-size: 100%;
+    background-color:  lightgray;
     border-radius: 3px;
 }
