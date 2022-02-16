@@ -73,7 +73,7 @@ h2 {
     background-position: top;
 }
 
-/* discover switzerland */
+/* main section/discover  */
 
 #discover {
     background-color: lightgray;
@@ -91,7 +91,7 @@ h2 {
 
 
 #discover div {
-    display: inline-block;
+    display: inline;
     float: left;
 }
 
@@ -203,19 +203,29 @@ height: 1px;
     border-radius: 3px;
 }
 
-/* contact section */
+/* footer or contact section */
 
-#contact {
-    height: 450px;
-    width: 100%;
+footer {
+    height: 350px;
     background-color: lightgray;
     text-align: center;
 }
 
-#contact h2 {
+footer h2 {
     padding: 75px 0 50px 0;
 }
 
-#contact h4 {
+footer h4 {
     padding-bottom: 25px;
+}
+
+footer p {
+    padding-bottom: 25px;
+}
+
+#icons li {
+    font-size: 200%;
+    color: red;
+    display: inline;
+    padding: 20px;
 }
