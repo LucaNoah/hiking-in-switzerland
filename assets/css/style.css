@@ -77,97 +77,56 @@ h2 {
 
 #discover {
     background-color: #E5FFCC;
-    height: 900px;
+    height: 1100px;
     width: 100%;
-}
-
-#discover-header {
-    width: 33%;
-    margin-left: 33%;
-    margin-right: 33%;
-    text-align: center;
-    padding-top: 75px;
-}
-
-
-#discover div {
-    display: inline;
-    float: left;
-}
-
-#discover1-outer {
-    width: 33%;
-    padding-top: 75px;
-    text-align: center;
-}
-
-#discover1 {
-    margin: 0px 100px;
-}
-
-#discover2-outer {
-    width: 33%;
-    padding-top: 75px;
-    text-align: center;
-}
-
-#discover2 {
-    margin: 0px 100px;
-}
-
-#discover3-outer {
-    width: 33%;
-    padding-top: 75px;
-    text-align: center;
-}
-
-#discover3 {
-    margin: 0px 100px;
-}
-
-#discover-header2 {
-    width: 33%;
-    margin-left: 33%;
-    margin-right: 33%;
-    text-align: center;
-    padding: 75px 0px;
-}
-
-#discoverplaceholder1 {
-width: 25%;
-background-color: #E5FFCC;
-height: 1px;
-}
-
-#discover4 {
-    width: 25%;
-    text-align: center;
-}
-
-#discover4 li {
-    margin-bottom: 10px;
 }
 
 #discover h3 {
     padding-bottom: 25px;
 }
 
-#discover5 {
-    width: 25%;
+#discover-switzerland-header {
+    margin: 0 auto;
     text-align: center;
+    padding: 75px 0px;
 }
 
-#discover5 table, #discover5 th, #discover5 td{
+.discover-switzerland-outer {
+    width: 33%;
+    text-align: center;
+    display: inline-block;
+}
+
+.discover-switzerland-text {
+    margin: 0px 100px;
+}
+
+#our-hiking-tours-header {
+    margin: 0 auto;
+    text-align: center;
+    padding: 75px 0px;
+}
+
+.our-hiking-tours-list-and-table {
+    width: 25%;
+    text-align: center;
+    display: inline;
+    
+}
+
+#header-table {
+    padding-top: 25px;
+}
+
+.our-hiking-tours-list-and-table li {
+    margin-bottom: 10px;
+}
+
+.our-hiking-tours-list-and-table table, .our-hiking-tours-list-and-table th, .our-hiking-tours-list-and-table td {
     border: 1px solid black;
     padding: 5px;
     margin: 0 auto;
     border-collapse: collapse;
-}
-
-#discoverplaceholder2 {
-    width: 24%;
-    background-color: #E5FFCC;
-    height: 1px;
 }
 
 /* join us section */
