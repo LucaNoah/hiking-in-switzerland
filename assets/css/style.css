@@ -137,9 +137,7 @@ h2 {
 }
 
 #join h2 {
-    width: 33%;
-    margin-left: 33%;
-    margin-right: 33%;
+    margin: 0 auto;
     text-align: center;
     padding: 75px 0;
 }
@@ -147,7 +145,7 @@ h2 {
 /* form */
 
 #joinform {
-    max-width: 400px;
+    max-width: 300px;
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
@@ -205,10 +203,62 @@ footer p {
 #icons li {
     font-size: 250%;
     display: inline;
-    padding: 20px;
+    padding: 1%;
 }
 
 .fa-brands {
     color: black;
 }
 
+/* media queries */
+
+@media screen and (max-width: 1500px) {
+    .discover-switzerland-outer {
+        display: inline;
+    }
+
+    #discover p {
+        padding-bottom: 25px;
+    }
+
+    #discover {
+        height: 1250px;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+    #menu {
+        float: left;
+        clear: left;
+        line-height: 25px;
+        margin-left: 40px;
+        margin-bottom: 25px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    #discover {
+        height: 1400px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .discover-switzerland-text {
+        margin: 0 5%;
+    }
+
+    #discover {
+        height: 1450px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    footer {
+        height: 400px;
+    }
+
+    #menu li {
+        margin: 0 auto;
+        margin-right: 25px;
+    } 
+}
