@@ -23,7 +23,7 @@ h1, h2, h3 {
 }
 
 h2 {
-    font-size: 200%;
+    font-size: 220%;
 }
 
 #logo {
@@ -77,7 +77,7 @@ h2 {
 
 #discover {
     background-color: #E5FFCC;
-    height: 1100px;
+    height: 1050px;
     width: 100%;
 }
 
@@ -132,7 +132,7 @@ h2 {
 /* join us section */
 
 #join {
-    height: 600px;
+    height: 550px;
     width: 100%;
 }
 
