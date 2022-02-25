@@ -278,4 +278,9 @@ footer p {
     #discover {
         height: 1600px;
     }
+
+    #logo {
+        line-height: 50px;
+        margin: 3% 0;
+    }
 }
