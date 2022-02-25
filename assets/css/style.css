@@ -242,13 +242,23 @@ footer p {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
     .discover-switzerland-text {
         margin: 0 5%;
     }
 
     #discover {
         height: 1450px;
+    }
+
+    #menu {
+        margin-left: 5px;
+        font-size: large;
+    }
+
+    #logo {
+        font-size: x-large;
+        margin-left: 5px;
     }
 }
 
@@ -262,4 +272,10 @@ footer p {
         margin-right: 20px;
         letter-spacing: 0px;
     } 
+}
+
+@media screen and (max-width: 400px) {
+    #discover {
+        height: 1600px;
+    }
 }
