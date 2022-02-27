@@ -16,8 +16,8 @@ This site is aimed at people who are looking for guided hiking tours throughout 
 
 ![Screenshot of the website on several screen sizes](assets/images/screenshot_readme2.PNG?raw=true)
 
-### - Header
-- The header consists of 2 parts one directly under the hero image and the second after the 3 text sections.
+### - Heading
+- The heading consists of 2 parts one directly under the hero image and the second after the 3 text sections.
 - It  clearly shows what this page is for and to whom this page is addressed.
 
 ![Screenshot of the website on several screen sizes](assets/images/screenshot_readme3.PNG?raw=true)

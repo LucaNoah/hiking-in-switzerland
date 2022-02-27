@@ -120,6 +120,7 @@ h2 {
 
 .our-hiking-tours-list-and-table li {
     margin-bottom: 10px;
+    list-style-type: square;
 }
 
 .our-hiking-tours-list-and-table table, .our-hiking-tours-list-and-table th, .our-hiking-tours-list-and-table td {
