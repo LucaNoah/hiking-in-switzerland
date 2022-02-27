@@ -67,3 +67,18 @@ XXX
 I confirmed that the colors and fonts chosen are easy to read and accessible by running lighthouse in devtools.
 
 ![Screenshot of the website on several screen sizes](assets/images/screenshot_readme8.PNG?raw=true)
+
+## Deployment
+---
+
+The site was deployed to GitHub pages. The steps to deploy are:
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Master Banch
+- Once the Master Banch has been selected, the page provided the link to the completed website.
+
+The live link ca be found here - [Hiking In Switzerland](https://lucanoah.github.io/Portfolio-Project-1/)
+
+## Credits
+---
+
+The hero image was taken from here - [Pexels](https://www.pexels.com/)
