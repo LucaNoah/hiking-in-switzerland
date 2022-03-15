@@ -95,6 +95,7 @@ h2 {
     width: 33%;
     text-align: center;
     display: inline-block;
+    vertical-align: top;
 }
 
 .discover-switzerland-text {
