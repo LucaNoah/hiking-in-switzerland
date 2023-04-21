@@ -90,7 +90,7 @@ The site was deployed to GitHub pages. The steps to deploy are:
 - From the source section drop-down menu, select the Master Branch.
 - Once the Master Branch has been selected, the page provided the link to the completed website.
 
-The live link ca be found here - [Hiking In Switzerland](https://lucanoah.github.io/Portfolio-Project-1/)
+The live link ca be found here - [Hiking In Switzerland](https://lucanoah.github.io/hiking-in-switzerland/)
 
 ## Credits
 ---
